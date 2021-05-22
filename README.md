@@ -23,18 +23,18 @@ Hello Friends, I am [Sanket Mote](https://smwrite.medium.com/) , student of Seco
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   
    
 </p>
-
-<br >
-
+<!-- 
+<br > -->
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketmote&show_icons=true&locale=en&layout=compact" alt="sm" /></p>
+ -->
 
-
-📈 My GitHub Stats
+<!-- 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketmote&show_icons=true&theme=gotham" alt="sanket Mote" />
-
-<br >
-<br >
+ -->
+<!-- <br >
+<br > -->
 
 <hr >
 
