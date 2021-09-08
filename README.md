@@ -2,7 +2,7 @@
 
 <br >
 
-Hello Friends, I am [Sanket Mote](https://smwrite.medium.com/) , student of Second Year Computer Science Engineering at Walchand College of Engineering, Sangli. I am passionate about learning new skills and new technologies. Skilled in Python , C , C++ ,HTML and CSS,I have completed some projects. Through projects, I have some hands on experience working with Python ,C++ , and Web development.
+Hello Friends, I am [Sanket Mote](https://smwrite.medium.com/) , student of Third Year Computer Science Engineering at Walchand College of Engineering, Sangli. I am passionate about learning new skills and new technologies. Skilled in Python , C , C++ ,HTML and CSS,I have completed some projects. Through projects, I have some hands on experience working with Python ,C++ , and Web development.
 
 <h3 align="left">Languages and Tools:</h3>
 
