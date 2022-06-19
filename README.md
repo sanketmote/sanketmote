@@ -59,7 +59,7 @@
 
 <p align="center">
 <a href="https://github.com/sanketmote">
-  <img height="210em" width="45%" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
+  <img height="200em" width="45%" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
   <img height="200em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
 </a>
     
