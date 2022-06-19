@@ -1,55 +1,52 @@
-### Hello 🙏
+<div>
+    <div align="center">
+        <img src="GitHub.png" height="200"/>
+    </div>
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Sanket+Mote;Full+Stack+Developer;Freelancer;Competitive+Programmer"/>
+    </div>
 
-<br >
+<!--    <img width="40%" align="right" alt="Sanket Mote GitHub overview" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg" /> -->
+<!-- ![Sanket Mote GitHub overview](https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg) -->
 
- I am [Sanket Mote](https://smwrite.medium.com/) , student of Third Year Computer Science Engineering at Walchand College of Engineering, Sangli. I am passionate about learning new skills and new technologies. Skilled in Python , C , C++ ,HTML and CSS,I have completed some projects. Through projects, I have some hands on experience working with Python ,C++ , and Web development.
+ <h1>👨🏻‍💻 About Me</h1>
+ 
+   <p>
+ 
+   - I am a Third-Year Student of Computer Science & Engineering at Walchand College of Engineering Sangli.. 🎓
+   - I am passionate about learning new skills and new technologies. Skilled in Python, C , C++, NodeJS, Flutter.
+   - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
+   - Technical Blogger 📝
+   </p>
+</div>
 
-<h3 align="left">Programing Languages :</h3>
+<br>
+<h1>🛠  Tech Stack </h1>
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
+<p align="center"> 
+<!--   Languagees and Scripts  -->
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+ <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+ <img alt="PYTHON" src="https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="JS" src="https://img.shields.io/badge/JS-F05032?style=for-the-badge&logo=javascript&logoColor=white" />
+<!--  Developemtn -->
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-%2300599C?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2300599C?style=for-the-badge&logo=flutter&logoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+
+ 
+ <br>
+ <br> 
+ 
+  <img alt="REACTJS" src="https://img.shields.io/badge/REACT-%2300599C?style=for-the-badge&logo=react&logoColor=white" /> 
+  <img alt="Git" src="https://img.shields.io/badge/Git-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-F05032?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="MYSQL" src="https://img.shields.io/badge/mysql-F05032?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2300599C?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="heroku" src="https://img.shields.io/badge/heroku-%2300599C.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+ 
 </p>
 
-<h3 align="left">Tools and Frameworks : </h3>
-<p align="left"> 
-<!--    html -->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
-<!--   css -->
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!--   js -->
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<!--    mongodb -->
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<!--   react -->
-<!--   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
-<!--  Git  -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
-<!--   mysql -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql" width="40" height="40"/>
-<!--   flutter -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="MySql" width="40" height="40"/>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>   
-   
-</p>
-<!-- 
-<br > -->
-<!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketmote&show_icons=true&locale=en&layout=compact" alt="sm" /></p>
- -->
-
-<!-- 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketmote&show_icons=true&theme=gotham" alt="sanket Mote" />
- -->
-<!-- <br >
-<br > -->
-
-<hr >
-
-<a href="https://www.linkedin.com/in/sanketmote/">
-<img align="left" alt="sanket's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=sanketmote.sanketmote)
- -->
+<br>
