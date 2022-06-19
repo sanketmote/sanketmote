@@ -7,7 +7,6 @@
     </div>
 
 <!--    <img width="40%" align="right" alt="Sanket Mote GitHub overview" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg" /> -->
-<!-- ![Sanket Mote GitHub overview](https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg) -->
 
  <h1>👨🏻‍💻 About Me</h1>
  
@@ -49,4 +48,18 @@
  
 </p>
 
-<br>
+<h1>Recent Projects </h1>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=Drushti&show_icons=true&theme=jolly" style="width:400px; height:160px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=OrganManagement&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+</div>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/sanketmote">
+  <img height="210em" width="45%" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
+  <img height="200em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+</a>
+    
