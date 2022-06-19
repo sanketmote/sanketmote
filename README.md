@@ -59,9 +59,17 @@
 
 <p align="center">
 <a href="https://github.com/sanketmote">
-  <img style="width:450px; height:200px;" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
-  <img style="width:450px; height:200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanketmote&layout=compact&langs_count=8&theme=algolia"/> 
+    <br>
+    <img src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
 </a>
+</p>
+<!-- <p align="center">
+<a href="https://github.com/sanketmote">
+  
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+</a> -->
 
 <div align="center">
     <img alt="Snake Animation" src="https://github.com/sanketmote/sanketmote/blob/output/github-contribution-grid-snake.svg" />  
