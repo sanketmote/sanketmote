@@ -59,7 +59,10 @@
 
 <p align="center">
 <a href="https://github.com/sanketmote">
-  <img height="200em" width="45%" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
-  <img height="200em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+  <img style="width:450px; height:200px;" src="https://github.com/sanketmote/sanketmote/blob/main/generated/overview.svg"/>
+  <img style="width:450px; height:200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmote&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
 </a>
-    
+
+<div align="center">
+    <img alt="Snake Animation" src="https://github.com/sanketmote/sanketmote/blob/output/github-contribution-grid-snake.svg" />  
+</div>
