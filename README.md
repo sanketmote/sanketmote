@@ -12,7 +12,7 @@
  
    <p>
  
-   - I am a Third-Year Student of Computer Science & Engineering at Walchand College of Engineering Sangli.. 🎓
+   - I am a Final-Year Student of Computer Science & Engineering at Walchand College of Engineering Sangli. 🎓
    - I am passionate about learning new skills and new technologies. Skilled in Python, C , C++, NodeJS, Flutter.
    - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
    - Technical Blogger 📝
