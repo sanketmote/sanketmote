@@ -10,8 +10,13 @@ jobs:
     name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v4
+
+      # Ensure the output directory exists
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: sanketmote
